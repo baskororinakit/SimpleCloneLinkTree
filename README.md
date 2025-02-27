@@ -1,1 +1,2 @@
-simple clone linktree project by bagas
+#Simple Clone LinkTree
+Making website Simple Clone LinkTree
